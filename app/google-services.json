@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894039274817",
+    "project_id": "tiendadonemilio",
+    "storage_bucket": "tiendadonemilio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894039274817:android:f2428eea8b8e4339dbddc0",
+        "android_client_info": {
+          "package_name": "com.misiontic2022.tiendadonemilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894039274817-957du5u8ggah99bntbftqqgj57g736m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misiontic2022.tiendadonemilio",
+            "certificate_hash": "adc4050c387eee1c7b42cf6fb7f8c1f588c256b5"
+          }
+        },
+        {
+          "client_id": "894039274817-652mseqaujqnrbo5okl5rp0ablf6kqjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwTsw46RBGfUy5rTQx_1PJpO0Ljya-kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894039274817-652mseqaujqnrbo5okl5rp0ablf6kqjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
